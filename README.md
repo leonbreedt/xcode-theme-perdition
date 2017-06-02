@@ -11,4 +11,4 @@ To get it to look exactly the same, you'll need to download and install my [cust
 
 # Sample
 
-<img src="https://raw.githubusercontent.com/leonbreedt/xcode-theme-perdition/master/Preview.png" alt="Preview" style="width: 425px;">
+<img src="https://raw.githubusercontent.com/leonbreedt/xcode-theme-perdition/master/Preview.png" alt="Preview" width="425" height="346">
